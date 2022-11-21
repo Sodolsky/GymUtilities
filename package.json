@@ -11,6 +11,8 @@
   "dependencies": {
     "expo": "~47.0.6",
     "expo-status-bar": "~1.4.2",
+    "lodash": "^4.17.21",
+    "nativewind": "^2.0.11",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
@@ -18,6 +20,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
+    "@types/lodash": "^4.14.189",
     "@types/react": "~18.0.14",
     "@types/react-native": "~0.70.6",
     "typescript": "^4.6.3"
