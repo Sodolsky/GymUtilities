@@ -18,7 +18,7 @@ export default function App() {
   };
   const calculatePlates = () => {
     const numbWeight = parseFloat(weight);
-    let numbHolder = 0;
+    let numbHolder = 20;
     const usedW = [];
     for (const i of weights) {
       const twoPlates = 2 * i;
